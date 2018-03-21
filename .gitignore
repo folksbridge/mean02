@@ -1,0 +1,18 @@
+# compiled output
+client/dist
+
+# dependencies
+node_modules
+client/node_modules
+package-lock.json
+
+# IDE - VSCode
+./client/vscode/*
+!./client/vscode/settings.json
+!./client/vscode/tasks.json
+!./client/vscode/launch.json
+!./client/vscode/extensions.json
+
+# e2e
+client/e2e/*.js
+client/e2e/*.map

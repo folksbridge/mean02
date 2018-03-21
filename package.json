@@ -1,0 +1,23 @@
+{
+  "name": "mean02",
+  "version": "1.0.0",
+  "description": "mean ng2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/folksbridge/mean02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/folksbridge/mean02/issues"
+  },
+  "homepage": "https://github.com/folksbridge/mean02#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  }
+}
